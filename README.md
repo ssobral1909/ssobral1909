@@ -1,16 +1,28 @@
-## Hi there 👋
+# Eduardo Sobral // Data Science & Marketing Analytics
 
-<!--
-**ssobral1909/ssobral1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Status: Junior Developer evolving into Data Scientist with focus on Marketing Analytics.
 
-Here are some ideas to get you started:
+[![Profile Views](https://komarev.com/ghpvc/?username=ssobral1909&style=flat)]()
+[![Followers](https://img.shields.io/github/followers/ssobral1909?style=flat)]()
+[![Stars](https://img.shields.io/github/stars/ssobral1909?affiliations=OWNER%2CCOLLABORATOR&style=flat)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class AboutMe:
+    name = "Eduardo Sobral"
+    background = ["Marketing", "Digital Marketing", "Marketing Analytics"]
+    academic_goal = "Future Master's degree in Marketing Analytics"
+    career_goal = "Data Science applied to business decision-making"
+    email = "eduardosobralspec@gmail.com"
+    linkedin = "https://www.linkedin.com/in/ssobral1909/"
+
+languages = ["Python", "R", "SQL"]
+libraries = ["Pandas", "NumPy", "Matplotlib"]
+marketing_tools = ["Google Analytics", "Facebook Ads", "Power BI"]
+concepts = ["Exploratory Data Analysis", "Marketing Metrics", "Statistical Thinking"]
+
+learning_path = {
+    "python": ["data cleaning", "EDA", "visualization", "automation"],
+    "r_language": ["statistical analysis", "data modeling"],
+    "marketing": ["campaign analytics", "consumer behavior", "performance tracking"],
+    "future_skills": ["machine_learning", "predictive_models", "clustering"]
+}
