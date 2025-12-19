@@ -2,9 +2,9 @@
 
 > Status: Junior Developer evolving into Data Scientist with focus on Marketing Analytics.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ssobral1909&style=flat)]()
-[![Followers](https://img.shields.io/github/followers/ssobral1909?style=flat)]()
-[![Stars](https://img.shields.io/github/stars/ssobral1909?affiliations=OWNER%2CCOLLABORATOR&style=flat)]()
+![Profile views](https://komarev.com/ghpvc/?username=ssobral1909&style=flat)
+![Followers](https://img.shields.io/github/followers/ssobral1909?style=flat)
+![Stars](https://img.shields.io/github/stars/ssobral1909?affiliations=OWNER&style=flat)
 
 ```python
 class AboutMe:
