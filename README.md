@@ -1,5 +1,8 @@
 # Eduardo Sobral // Data Science & Marketing Analytics
 
+A beginner developer exploring Data Science applied to Marketing.
+Learning every day, building publicly.
+
 > Status: Junior Developer evolving into Data Scientist with focus on Marketing Analytics.
 
 ![Profile views](https://komarev.com/ghpvc/?username=ssobral1909&style=flat)
